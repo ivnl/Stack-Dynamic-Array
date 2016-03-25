@@ -1,0 +1,19 @@
+
+Project 3: Array Implementation of Stack specificaions: 
+
+
+**** Language: ** C++ **
+
+Input: a text file contains a list of numbers (positive integers). 
+       **** The name of the input file should be given in argv[1]
+
+Output: Console
+
+Data structure:
+  	A Stack class:
+	 member: top, an integer
+ 	 member: StackArry, a pointer to 1-D integer array, 
+			to be dynamically allocated at run time.
+
+      methods: constructor, destractor, push, pop, and isEmpty
+ 	
